@@ -43,6 +43,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-03-30 20:35:21</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-31 02:55:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12e607ab4fc11300a8fb121f9310c777</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_193111_innovate_innovate" name="x_193111_innovate_innovate" sys_domain="global" view="Default view">066ba1eb4f011300a8fb121f9310c78d</sys_ui_form>
+            <sys_ui_section caption="Sponsor" display_value="Sponsor" name="x_193111_innovate_innovate" sys_domain="global" view="Default view">5ee607ab4fc11300a8fb121f9310c773</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-31 02:55:35</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_193111_innovate_innovate</name>
             <roles/>

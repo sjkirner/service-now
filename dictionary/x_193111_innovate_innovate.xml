@@ -14,5 +14,6 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="Notes" mandatory="true" max_length="1000" name="u_notes" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="120" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sponsor Name" mandatory="true" max_length="1000" name="u_sponsor_name" type="string"/>
     </element>
 </database>
